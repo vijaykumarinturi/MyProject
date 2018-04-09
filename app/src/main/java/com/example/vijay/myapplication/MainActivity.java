@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Toast.makeText(MainActivity.this, "firstddd application d", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "kjhh", Toast.LENGTH_SHORT).show();
             }
         });
     }
